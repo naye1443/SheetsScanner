@@ -1,0 +1,8 @@
+# enviroment files
+.env
+# venv
+enviroment
+# google credentials
+credentials.json
+# macos files
+.DS_Store
